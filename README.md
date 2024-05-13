@@ -1,0 +1,2 @@
+# variavel
+Brincando com javaScript
